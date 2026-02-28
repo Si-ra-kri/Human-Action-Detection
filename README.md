@@ -21,8 +21,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## 🛠️ How to Run the Notebook
 1. Clone this repository and navigate to the project folder:
 ```bash
-git clone https://github.com/yourusername/my_ds_projects.git
-cd my_ds_projects/Human\ Action\ Detection/
+git clone https://github.com/yourusername/Human-Action_Detection.git
+cd Human-Action-Detection
 ```
 2. Open the notebook in Jupyter:
 ```bash
